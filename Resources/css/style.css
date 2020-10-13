@@ -12,13 +12,16 @@ h1 {
 button {
     font-size: 16px;
     color: aquamarine;
+    background-color: black;
+    box-align: Center;
 }
 
-h3 {
+h3, h2{
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
     color: white;
+    text-align: center;
 }
 
 p {
@@ -28,11 +31,16 @@ p {
 }
 
 img {
-    width: 400px;
-    height: 250px;
+    width: 2000px;
+    height: 1500px;
 }
 
 video {
+    width: 1000px;
+    height: 2000px;
+}
+
+.icon {
     width: 250px;
-    height: 400px;
+    height: 250px;
 }
